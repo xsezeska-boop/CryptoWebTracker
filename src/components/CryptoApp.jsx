@@ -3,6 +3,7 @@ import SearchForm from "./SearchForm";
 import Coin from "./Coin";
 
 const CryptoApp = () => {
+    
 
     const [title, setTitle] = useState('')
     const [coinName, setCoinName] = useState(null)
